@@ -8,5 +8,5 @@ Kolumny:
 + question - numer pytania
 + answer - odpowiedź na pytanie
 
-1. Analiza: 2-filter.py
+2. Analiza: 2-filter.py
 Tworzy zestawienie odpowiedzi na pytanie numer 3 "Do you think the "Big One" will occur in your lifetime?"
